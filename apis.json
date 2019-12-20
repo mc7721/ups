@@ -1,0 +1,51 @@
+{
+    "name": "UPS",
+    "description": "Stay connected to global trade, sustainability & logistics. Tweets by the UPS Social Team. Questions about a package? Just ask @UPSHelp.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/514-ups.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ups\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "UPS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/514-ups.jpg",
+            "humanURL": "http:\/\/www.ups.com\/content\/us\/en\/resources\/techsupport\/developercenter.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ups-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/wwwcie.ups.com\/ups.app\/xml\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/united-parcel-service"
+        },
+        {
+            "type": "Email",
+            "url": "fraud@ups.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UPS"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ups.com\/content\/us\/en\/resources\/techsupport\/developercenter.html"
+        }
+    ]
+}
